@@ -2,11 +2,11 @@ body {
   width: 100%;
 }
 
-.header{
+.header {
   color: #fff;
   background-color: darkgreen;
-  padding:25px, 20px; 
-} 
+  padding: 10px 20px;
+}
 
 ul {
   list-style-type: none;
@@ -81,5 +81,6 @@ footer {
   background-color: darkgreen;
   color: white;
   text-align: center;
+
   /* padding: 20px 0; */
 }
