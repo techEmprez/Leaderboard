@@ -2,6 +2,10 @@ body {
   width: 100%;
 }
 
+ul{
+    list-style-type: none;
+}
+
 .content {
   gap: 20vw;
   display: grid;
@@ -52,12 +56,12 @@ input {
   margin: 0;
 }
 
-.score-list p:nth-child(odd) {
+.odd {
   color: black;
   background-color: #fff;
 }
 
-.score-list p:nth-child(even) {
+.even {
   color: #fff;
   background-color: gray;
 }
