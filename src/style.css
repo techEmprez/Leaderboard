@@ -2,6 +2,16 @@ body {
   width: 100%;
 }
 
+.header {
+  color: #fff;
+  background-color: darkgreen;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .content {
   gap: 20vw;
   display: grid;
@@ -47,17 +57,30 @@ input {
 }
 
 .score-list p {
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid black;
   padding: 5px;
   margin: 0;
 }
 
-.score-list p:nth-child(odd) {
+.odd {
   color: black;
   background-color: #fff;
 }
 
-.score-list p:nth-child(even) {
+.even {
   color: #fff;
-  background-color: gray;
+  background-color: burlywood;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+
+  /* padding: 20px 0; */
 }
