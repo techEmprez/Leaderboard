@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
   width: 100%;
 }
@@ -16,6 +22,8 @@ ul {
   gap: 20vw;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  padding-top: 30px;
+  margin: 20px;
 }
 
 .table-container {
@@ -33,18 +41,24 @@ ul {
 
 input {
   width: 100%;
-  height: 20px;
+  height: 30px;
   margin-bottom: 15px;
+  border-radius: 5px;
+  outline: none;
+  padding-left: 5px;
 }
 
 .submit-btn {
   float: right;
+  width: 40%;
+  height: 30px;
 }
 
 .top-bar {
   align-items: center;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 10px;
 }
 
 .refresh-btn {
@@ -81,6 +95,4 @@ footer {
   background-color: darkgreen;
   color: white;
   text-align: center;
-
-  /* padding: 20px 0; */
 }
