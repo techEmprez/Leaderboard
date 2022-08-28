@@ -7,7 +7,7 @@
 
 ## Interested to view my project... Click here
 
-- [Leaderboard])
+- [Leaderboard]
 
 ## Author
 
