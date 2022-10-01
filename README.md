@@ -7,7 +7,7 @@
 
 ## Interested to view my project... Click here
 
-- [Leaderboard]
+- [Leaderboard](https://effortless-lokum-7a0d30.netlify.app/)
 
 ## Author
 
