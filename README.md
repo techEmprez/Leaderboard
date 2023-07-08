@@ -9,13 +9,15 @@
 
 - [Leaderboard](https://leaderboard-score-add-name.netlify.app/)
 
-## Author
+<!-- AUTHOR -->
+
+## 👥 Authors <a name="author"></a>
 
 👤 **Choice Osobor**
 
-- GitHub: [@githubhandle](https://github.com/techEmprez)
-- Twitter: [@twitterhandle](https://twitter.com/Suigeneriz_)
-- LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
+- GitHub: [![@techEmprez](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez)
+- Twitter: [![@techEmprez](https://img.shields.io/badge/-techEmprez-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/techEmprez)
+- LinkedIn: [![Choice-Osobor(techEmprez)](https://img.shields.io/badge/-ChoiceOsobor-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
 
 ## Run tests
 
